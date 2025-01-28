@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Informatics Engineering<br>🌱 I’m currently learning Next.js, Laravel, React.js, and Flutter.<br>⚡ Fun fact I enjoy exploring cutting-edge technologies and integrating them into real-world solutions!
+🔭 I’m currently studying Informatics Engineering<br>🌱 I’m currently learning Next.js, Laravel, React.js.<br>⚡ Fun fact I enjoy exploring cutting-edge technologies and integrating them into real-world solutions!
 
 
 # 💻 Tech Stack:
